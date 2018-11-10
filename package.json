@@ -1,0 +1,28 @@
+{
+  "name": "tslint-config-kaiba",
+  "version": "1.0.0",
+  "description": "tslint-config-kaiba",
+  "main": "tslint.js",
+  "files": [
+    "tslint.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaibadash/tslint-config-kaiba.git"
+  },
+  "keywords": [
+    "tslint"
+  ],
+  "author": "kaiba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaibadash/tslint-config-kaiba/issues"
+  },
+  "homepage": "https://github.com/kaibadash/tslint-config-kaiba#readme",
+  "dependencies": {
+    "tslint-config-prettier": "^1.15.0",
+    "tslint-plugin-prettier": "^2.0.1"
+  }
+}
