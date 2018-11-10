@@ -10,5 +10,5 @@ npm install git+https://github.com/kaibadash/tslint-config-kaiba --save-dev
 In tslint.json:
 
 {
-    "extends": "tslint-config-kaiba"
+    "extends": "tslint-config-kaiba/tslint"
 }
