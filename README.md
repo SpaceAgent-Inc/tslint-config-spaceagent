@@ -3,7 +3,9 @@
 ## Installation
 
 ```sh
-npm install git+https://github.com/kaibadash/tslint-config-kaiba --save-dev
+npm install git+https://github.com/SpaceAgent-Inc/tslint-config-spaceagent --save-dev
+or
+yarn add --dev git+https://github.com/SpaceAgent-Inc/tslint-config-spaceagent
 ```
 
 ## Usage
@@ -11,6 +13,6 @@ In tslint.json:
 
 ```json
 {
-    "extends": "tslint-config-kaiba/tslint"
+    "extends": "tslint-config-spaceagent/tslint"
 }
 ```
