@@ -1,7 +1,7 @@
 {
-  "name": "tslint-config-kaiba",
+  "name": "tslint-config-spaceagent",
   "version": "1.0.0",
-  "description": "tslint-config-kaiba",
+  "description": "tslint-config-spaceagent",
   "main": "tslint.js",
   "files": [
     "tslint.js",
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaibadash/tslint-config-kaiba.git"
+    "url": "git+https://github.com/SpaceAgent-Inc/tslint-config-spaceagent.git"
   },
   "keywords": [
     "tslint"
@@ -18,9 +18,9 @@
   "author": "kaiba",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kaibadash/tslint-config-kaiba/issues"
+    "url": "https://github.com/SpaceAgent-Inc/tslint-config-spaceagent/issues"
   },
-  "homepage": "https://github.com/kaibadash/tslint-config-kaiba#readme",
+  "homepage": "https://github.com/SpaceAgent-Inc/tslint-config-spaceagent",
   "dependencies": {
     "tslint-config-prettier": "^1.15.0",
     "tslint-plugin-prettier": "^2.0.1"
